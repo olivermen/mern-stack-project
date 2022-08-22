@@ -20,7 +20,7 @@ function App() {
             <Container>
               <Navbar.Brand>
                 <Link to='/' className="nav-link">
-                  React MERN Stack App
+                  React MERN Stack
                 </Link>
               </Navbar.Brand>
               <Nav className="justify-content-end">
